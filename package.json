@@ -1,0 +1,14 @@
+{
+  "name": "Daily",
+  "version": "1.0.0",
+  "description": "金山词霸每日一句",
+  "main": "index.js",
+  "repository": "git@github.com:cjiao100/Daily.git",
+  "author": "cjiao100 <1971416012@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cron": "^1.8.2",
+    "mongoose": "^5.9.5"
+  }
+}
